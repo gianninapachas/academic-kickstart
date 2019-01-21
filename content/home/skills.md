@@ -49,6 +49,6 @@ weight = 7
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-  description = "English and Spanish"
+  description = "English, Spanish, and French (intermediate level)"
 
 +++
