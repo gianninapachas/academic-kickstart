@@ -10,19 +10,18 @@ role = "Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Computer Science Engineering", url = "https://cse.uta.edu" }, { name = "University of Texas at Arlington", url = "https://www.uta.edu/uta/" }]
+organizations = [ { name = "Software Engineering", url = "https://cse.uta.edu" }, { name = "University of Texas at Arlington", url = "https://www.uta.edu/uta/" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "gianninapachas@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Application Development",
+  "Web Development"
 ]
 
 # List qualifications (such as academic degrees)
@@ -31,15 +30,15 @@ interests = [
   institution = "Stanford University"
   year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+# [[education.courses]]
+  # course = "MEng in Artificial Intelligence"
+  # institution = "Massachusetts Institute of Technology"
+  # year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+# [[education.courses]]
+  # course = "BSc in Artificial Intelligence"
+  # institution = "Massachusetts Institute of Technology"
+  # year = 2008
 
 # Social/Academic Networking
 #
