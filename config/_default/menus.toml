@@ -18,10 +18,10 @@
   url = "#experience"
   weight = 3
 
-#[[main]]
-  #name = "Projects"
-  #url = "#projects"
-  #weight = 4
+[[main]]
+  name = "Accomplishments"
+  url = "#accomplishment"
+  weight = 4
 
 #[[main]]
   #name = "Tutorials"
@@ -31,11 +31,11 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "Resume"
     url = "files/resume.pdf"
-    weight = 5
+    weight = 6
