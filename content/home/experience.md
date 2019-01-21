@@ -68,5 +68,21 @@ date_format = "January 2006"
 
 
   """
+  
+  [[experience]]
+  title = "Summer Volunteer"
+  company = "Mansfield Methodist Hospital"
+  company_url = ""
+  location = "Mansfield, TX"
+  date_start = "2013-06-01"
+  date_end = "2014-08-01"
+  description = """
+ 
+  * Helped at the front desk, especially with paperwork and phone calls
+  * Assisted patients in hospital rooms
+  * Transported patients in and out of the hospital 
+
+
+  """
 
 +++
