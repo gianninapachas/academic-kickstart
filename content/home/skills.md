@@ -44,5 +44,11 @@ weight = 7
   icon_pack = "fab"
   name = "Software Applications"
   description = "MS Office Suite, Adobe Illustrator, Adobe Acrobat Professional"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "MS Office Suite, Adobe Illustrator, Adobe Acrobat Professional"
 
 +++
