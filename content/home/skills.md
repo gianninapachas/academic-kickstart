@@ -23,20 +23,26 @@ weight = 7
 
 [[feature]]
   icon = "code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Programming Languages"
   description = "Java, Python, C, C++, ARMv7, JavaScript, Swift, MySQL, PHP"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Applications"
+  description = "NetBeans, MATLAB, Xcode, Sublime, Spyder, Eclipse, MAMP"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "apple"
+  icon_pack = "fab"
+  name = "Operating Systems"
+  description = "Windows, Unix/Linux, Mac OS"
+  
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Software Applications"
+  description = "MS Office Suite, Adobe Illustrator, Adobe Acrobat Professional"
 
 +++
