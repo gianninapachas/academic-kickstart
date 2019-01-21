@@ -92,4 +92,4 @@ interests = [
 
 +++
 
-Giannina Pachas is a software engineering student at the University of Texas at Arlington. She is a current member of Alpha Chi Omega Epsilon Lambda chapter and former member of Freshman Leaders on Campus (FLOC). Her interests are working in application development and web development. Currently she is working on a senior design project sponsored by PDX Inc and data mining project, more info to come. 
+Giannina Pachas is a software engineering student minoring in business administration at the University of Texas at Arlington. She is a current member of Alpha Chi Omega Epsilon Lambda chapter and former member of Freshman Leaders on Campus (FLOC). Her interests are working in application development and web development. Currently she is working on a senior design project sponsored by PDX Inc and data mining project, more info to come. 
