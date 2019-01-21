@@ -28,7 +28,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   
-  Assist students with any services offered by the Center
+  # Assist students with any services offered by the Center
 
   """
   
