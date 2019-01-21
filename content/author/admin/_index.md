@@ -28,12 +28,12 @@ interests = [
 [[education.courses]]
   course = "BS Software Engineering"
   institution = "University of Texas at Arlington"
-  year = Expected December 2019
+  year = 2019
 
 [[education.courses]]
   course = "Minor Business Administration"
   institution = "University of Texas at Arlington"
-  year = Expected December 2019
+  year = 2019
 
 # [[education.courses]]
   # course = "BSc in Artificial Intelligence"
