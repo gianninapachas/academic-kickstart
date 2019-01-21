@@ -66,7 +66,7 @@ interests = [
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "www.google.com"
+  link = "https://www.google.com"
 
 # [[social]]
   # icon = "google-scholar"
