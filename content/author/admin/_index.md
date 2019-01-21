@@ -61,22 +61,22 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:gianninapachas@gmail.com".
 
 [[social]]
-  icon = "twitter"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "www.linkedin.com/in/giannina-pachas"
 
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+# [[social]]
+  # icon = "google-scholar"
+  # icon_pack = "ai"
+  # link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/gianninapachas"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
