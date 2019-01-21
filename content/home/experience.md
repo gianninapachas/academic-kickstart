@@ -26,7 +26,6 @@ date_format = "January 2006"
   date_start = "May 2017"
   date_end = ""
   description = """
-  Responsibilities include:
   
   * Assist students with any services offered by the Center
   * Help approve and post up to 10 job opportunities daily on office job database
