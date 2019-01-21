@@ -49,6 +49,6 @@ weight = 7
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-  description = "MS Office Suite, Adobe Illustrator, Adobe Acrobat Professional"
+  description = "English and Spanish"
 
 +++
