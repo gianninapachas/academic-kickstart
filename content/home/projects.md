@@ -43,10 +43,10 @@ filter_default = 0
  [[filter]]
    name = "Deep Learning"
    tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+
+ [[filter]]
+   name = "Other"
+   tag = "Demo"
 
 +++
 
