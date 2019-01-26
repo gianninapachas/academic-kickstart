@@ -23,19 +23,19 @@
   url = "#accomplishments"
   weight = 4
 
-#[[main]]
-  #name = "Tutorials"
-  #url = "/tutorial/"
-  #weight = 5
+[[main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 5
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "Resume"
     url = "files/resume.pdf"
-    weight = 6
+    weight = 7
