@@ -49,7 +49,7 @@ The goal of this project was to build a recommender application system in the pl
 
 Movies have been a part of life since I could remember, I really enjoyed going to the movie theater to watch and watching a video cassette, DVD, and streaming any movie. At one point I wanted to direct my own movie, to be a director because I really like how the ideas they had along with writers and actors came to life. My selections of movies that I watched or want to watch I believed I completed the list but as more movies are produced and some that have been made in the past I tend to forget those. Those movies that could possibly end up being a favorite and special one. 
 
-The system will be on a web-based platform and have a 7 features, more information can be seen on the project proposal pdf at the top of page as well as sketches of 3 features slides that are planned to be implemented. 
+The system will be on a web-based platform and have a 7 features, more information can be seen on the project proposal pdf at the top of this page as well as sketches of 3 features that are planned to be implemented. 
 
 Currently the project is in the planning stage, all current requirements could change except for the topic and the product being a recommender application system. 
 
