@@ -6,7 +6,7 @@ title = "Movie Recommender"
 date = 2019-01-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "Website that recommends movies to watch based upon the users"
+summary = "Website that recommends movies to watch based upon the user's preference."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
