@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Movie Recommender Website"
+title = "Movie Recommender"
 
 # Date this page was created.
 date = 2019-01-28T00:00:00
