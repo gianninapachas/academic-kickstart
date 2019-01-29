@@ -45,7 +45,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-The goal of this project was to build a recommender application system in the platform and topic of my choice. As I thought more of what topic I was going to do the constant back and forth between topics reminded me of how I go back and forth when I try to decide a movie and tv show to watch. Not only I have this tendency but many people do, so not only deciding my topic to be movies would help myself but other users as well. 
+The goal of this project is to build a recommender application system in the platform and topic of my choice. As I thought more of what topic I was going to do the constant back and forth between topics reminded me of how I go back and forth when I try to decide a movie and tv show to watch. Not only I have this tendency but many people do, so not only deciding my topic to be movies would help myself but other users as well. 
 
 Movies have been a part of life since I could remember, I really enjoyed going to the movie theater to watch and watching a video cassette, DVD, and streaming any movie. At one point I wanted to direct my own movie, to be a director because I really like how the ideas they had along with writers and actors came to life. My selections of movies that I watched or want to watch I believed I completed the list but as more movies are produced and some that have been made in the past I tend to forget those. Those movies that could possibly end up being a favorite and special one. 
 
