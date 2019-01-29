@@ -1,5 +1,5 @@
 +++
-title = "Slides"
+title = "Images"
 
 [slides]
 # Choose a theme from https://github.com/hakimel/reveal.js#theming
