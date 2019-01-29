@@ -21,7 +21,8 @@ external_link = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+slides = ""
+# example-slides
 
 # Links (optional).
 url_pdf = "https://drive.google.com/file/d/1k-fbsmqlnSGvW5hz9530wYw8A7Tk74Sh/view?usp=sharing"
@@ -31,7 +32,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+ url_custom = [{icon_pack = "fas", icon="images", name="Feature sketches", url = "https://docs.google.com/presentation/d/1omC4IU_fpwYB17Rvi6r6-8NthVgeOkttNdSpQTmfIfE/edit?usp=sharing"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
