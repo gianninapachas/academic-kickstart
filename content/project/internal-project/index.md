@@ -24,7 +24,7 @@ external_link = ""
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "static/files/Movie_Recommender_Page_Proposal.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
