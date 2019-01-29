@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Internal Project"
+title = "Movie Recommender App"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-01-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+summary = "iOS application that recommends movies to watch"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
