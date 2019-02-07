@@ -1,9 +1,9 @@
 +++
 title = "Academic: the website designer for Hugo"
-subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
+subtitle = "Create a beautifully simple website in under 10 minutes"
 
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
+date = 2019-02-07T00:00:00
+lastmod = 2019-02-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -24,7 +24,7 @@ summary = "Create a beautifully simple website or blog in under 10 minutes."
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption = "Image credit: [**Medium.Muz.li**](https://medium.muz.li/3-trends-in-landing-page-design-5cf900f2c90f)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
