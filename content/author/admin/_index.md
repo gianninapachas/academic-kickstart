@@ -13,7 +13,7 @@ role = "Student"
 organizations = [ { name = "Software Engineering", url = "https://cse.uta.edu" }, { name = "University of Texas at Arlington", url = "https://www.uta.edu/uta/" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include working in application development and web development."
+bio = "My interests include working in application development and web development."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "gianninapachas@gmail.com"
