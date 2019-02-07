@@ -1,6 +1,6 @@
 +++
 title = "Movie Recommender: Professional Design Sketches"
-subtitle = "Featured four design sketches for website."
+subtitle = "Featured four design sketches for my website project."
 
 date = 2019-02-07T00:00:00
 lastmod = 2019-02-07T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = ["Admin"]
 
 tags = ["Academic"]
-summary = "My design ideas of 4 features for the website: Search, Classifier, Recommender, and My Watch List."
+summary = "My design ideas of 4 features for my website project: Search, Classifier, Recommender, and My Watch List."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
