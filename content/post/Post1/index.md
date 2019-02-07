@@ -45,7 +45,7 @@ summary = "My design ideas of 4 features for the website: Search, Classifier, Re
   - My Watch List
 
 ## Design Sketches
-- [View the UI Layouts for Movie Recommender Website](https://balsamiq.cloud/sp1c5g0/p7urhqx/r4843)
+- [View UI Layouts of key features for Movie Recommender Website](https://balsamiq.cloud/sp1c5g0/p7urhqx/r4843)
 
 ## Tools
 
