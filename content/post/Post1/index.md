@@ -12,7 +12,7 @@ authors = ["Admin"]
 tags = ["Academic"]
 summary = "My design ideas of 4 features for the website: Search, Classifier, Recommender, and My Watch List."
 
-# Projects (optional). --left off
+# Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["deep-learning"]` references 
@@ -35,34 +35,19 @@ summary = "My design ideas of 4 features for the website: Search, Classifier, Re
 
 +++
 
-**Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+**Sketches** makes it easy to plan and develop any application. I have designed UI Layouts for a project I am currently working on, each feature that will be shown will have a "Usage Scenario" which shows how each featured will be used by the user. More information about the project can be found under the "Projects" tab on my homepage.
 
-Follow our easy [step by step guide](https://sourcethemes.com/academic/docs/install/) to learn how to build your own free website with Academic. [Check out the personal demo](https://academic-demo.netlify.com/) or the [business demo](https://sourcethemes.com/academic/) of what you'll get in less than 10 minutes.
+-Key features that will be previewed:
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+  - Search
+  - Classifier
+  - Recommender
+  - My Watch List
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+## Design Sketches
+- [View the UI Layouts for Movie Recommender Website](https://balsamiq.cloud/sp1c5g0/p7urhqx/r4843)
 
-Key features:
+## Tools
 
-- Easily manage various content including homepage, blog posts, publications, talks, and projects
-- Extensible via **color themes** and **widgets/plugins**
-- Write in [Markdown](https://sourcethemes.com/academic/docs/writing-markdown-latex/) for easy formatting and code highlighting, with [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) for mathematical expressions
-- Social/academic network linking, [Google Analytics](https://analytics.google.com), and [Disqus](https://disqus.com) comments
-- Responsive and mobile friendly
-- Simple and refreshing one page design
-- Multilingual and easy to customize
-
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+* **[Balsamiq Cloud](https://balsamiq.cloud):** I used for my professional design tool.
+* **[Google](https://www.google.com):** Images that are shown in the designs each searched in google, there are cited within the notes section of the program for each feature shown. 
