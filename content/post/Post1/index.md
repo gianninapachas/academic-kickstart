@@ -37,7 +37,7 @@ summary = "My design ideas of 4 features for the website: Search, Classifier, Re
 
 **Sketches** makes it easy to plan and develop any application. I have designed UI Layouts for a project I am currently working on, each feature that will be shown will have a "Usage Scenario" which shows how each featured will be used by the user. More information about the project can be found under the "Projects" tab on my homepage.
 
--Key features that will be previewed:
+- Key features that will be previewed:
 
   - Search
   - Classifier
