@@ -50,4 +50,4 @@ summary = "My design ideas of 4 features for the website: Search, Classifier, Re
 ## Tools
 
 * **[Balsamiq Cloud](https://balsamiq.cloud):** I used for my professional design tool.
-* **[Google](https://www.google.com):** Images that are shown in the designs each searched in google, there are cited within the notes section of the program for each feature shown. 
+* **[Google](https://www.google.com):** Images that are shown in the designs each searched in Google, there are cited within the notes section of the design tool for each feature shown. 
