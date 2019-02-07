@@ -1,6 +1,6 @@
 +++
-title = "Academic: the website designer for Hugo"
-subtitle = "Create a beautifully simple website in under 10 minutes"
+title = "Movie Recommender: Professional Design Sketches"
+subtitle = "Featured four design sketches for website."
 
 date = 2019-02-07T00:00:00
 lastmod = 2019-02-07T00:00:00
@@ -10,9 +10,9 @@ draft = false
 authors = ["Admin"]
 
 tags = ["Academic"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
+summary = "My design ideas of 4 features for the website: Search, Classifier, Recommender, and My Watch List."
 
-# Projects (optional).
+# Projects (optional). --left off
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["deep-learning"]` references 
