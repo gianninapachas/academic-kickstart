@@ -18,7 +18,7 @@ summary = "My design ideas of 4 features for the website: Search, Classifier, Re
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
+ projects = ["internal-project"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
